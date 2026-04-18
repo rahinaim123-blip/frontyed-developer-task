@@ -1,1 +1,1 @@
-# frontyed-developer-task
+# fronted-developer-task
